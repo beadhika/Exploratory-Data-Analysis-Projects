@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-Projects
+This folder contains my Exploratory Data Analysis Projects.
