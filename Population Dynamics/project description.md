@@ -1,1 +1,1 @@
-
+This is a group project that studies population and different factors that are related to population such as food production, energy consumption, GDP. This project involves data extraction using web scraping, data cleaning and data exploration. 
